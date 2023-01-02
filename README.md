@@ -5,9 +5,10 @@
 | Actuel                                | Futur
 | -                                     | -
 | Maths pour les géosciences (EPFL)     | Maths pour les géosciences (EPFL)
+| Physique generale I (EPFL)            | Physique generale I (EPFL)
 | Cartographie & SIG (CK)               | Cartographie & SIG (CK) → 50% SIG
 | MQ1: princ. + stats. desc. (FB)       | MQ1: stats desc. + inf. → +applications
-|                                       | Introduction à la programmation (TB)
+|                                       | Introduction à la programmation (TB?)
 | Applications maths et stats en géosciences (JI, FB, SS) | ?
 | MQ2 : stats. inf.(FB)                 | MQ2: stats multivariées → +applications
 
@@ -26,7 +27,7 @@
 
 | Actuel                                | Futur
 | -                                     | -
-| Géomatique & SIG (TB)                 | Analyse spatiale & SIG (CK)
+| Géomatique & SIG (TB)                 | Analyse spatiale & SIG (CK/TB?)
 | Anal. spat. + quant. en géo. (CK, GEO) | -
 | Anal. données env. (MEP, ENV)         | ?
 | Modélisation numérique (GJ, ENV)      | Modélisation numérique (GJ)
@@ -49,7 +50,7 @@
 - Exploratory (Spatial) Data Analysis + Visualisation / cartographie / (Numpy, Pandas, Visualisation)
 - Spatial statistics / Geostatistics / Bayesian Data Analysis
 - Algorithmes (spatiaux etc.) + Git
-- Machine learning 1
+- Machine learning
 - Télédétection / Machine learning appliqué
 
 
@@ -62,6 +63,8 @@ Matière qui pourrait être couverte (possibilité de créer une voie GEO et une
 - Interpolation
 - Analyse / modélisation / visualisation 3D
 - Geopandas etc.
+- Validation croisee et bases de l'apprentissage automatique
+- Bases en geostatistiques
 - Applications de routing etc.
 - Maillages spatiaux hiérarchiques (systèmes de grilles mondiales)
 - Change of support

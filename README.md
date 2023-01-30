@@ -8,8 +8,8 @@
 | Physique generale I (EPFL)            | Physique generale I (EPFL)
 | Cartographie & SIG (CK)               | Cartographie & SIG (CK) → 50% SIG
 | MQ1: princ. + stats. desc. (FB)       | MQ1: stats desc. + inf. → +applications
-|                                       | Introduction à la programmation (TB?)
-| Applications maths et stats en géosciences (JI, FB, SS) | ?
+|                                       | Introduction à la programmation (TB)
+| Applications maths et stats en géosciences (JI, FB, SS) | Programmation II suivant l'introduction
 | MQ2 : stats. inf.(FB)                 | MQ2: stats multivariées → +applications
 
 
@@ -22,6 +22,7 @@
 | Vis. et analyse de données géo. (CK, GEO) | -
 | Télédétection (GM)                    | Télédétection
 | Levés géomatiques (BQ, ENV)           | Levés géomatiques (BQ)
+| Modélisation numérique (GJ, ENV)      | Modélisation numérique (GJ)
 
 ## BSc année 3
 
@@ -29,8 +30,7 @@
 | -                                     | -
 | Géomatique & SIG (TB)                 | Analyse spatiale & SIG (CK/TB?)
 | Anal. spat. + quant. en géo. (CK, GEO) | -
-| Anal. données env. (MEP, ENV)         | ?
-| Modélisation numérique (GJ, ENV)      | Modélisation numérique (GJ)
+| Anal. données env. (MEP, ENV)         | Garder comme tel?
 | Analyse vectorielle (PDA, ENV)        | Analyse vectorielle (PDA)
 
 

@@ -37,7 +37,7 @@
 ## Remarques
 
 - Redondances entre cours d'analyse de données CK/GEO + MEP/ENV
-- Cours de mise en application stats tardives par rapport à MQ (FB)
+- Pratique des statistiques trop tardive par rapport aux trois cours semestriels de méthodes quantitatives de FB: MQI et MQII, qui sont dans le tronc commun du propédeutique (1ère année BA), et MQIII (analyse de données multivariées) dans la 2ème partie BA pour géographie et environnement seulement: actuellement les TPs sont uniquement "calculette et papier" (avec des exemples de sorties R et SPSSs à interpréter), or il faudrait bien sûr introduire la pratique logicielle pour MQII déjà, au plus tard pour MQIII.
 - Redondances partielles entre cours Carto & SIG et Géomatique & SIG
 - Ajout d'un cours d'introduction à la programmation qui ouvre des portes
 - Ajout d'un cours de BD relationnelles et spatiales qui remplace en partie géomatique
